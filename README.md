@@ -1,8 +1,8 @@
-\# AI/ML Flood Risk Classification – Simplified PoC
+# AI/ML Flood Risk Classification – Simplified PoC
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -66,7 +66,7 @@ A synthetic flood-risk target was created using rainfall, river discharge, water
 
 
 
-\## Approach
+## Approach
 
 
 
@@ -82,7 +82,7 @@ A Random Forest model is also trained as a classical machine-learning baseline.
 
 
 
-\## Preprocessing
+## Preprocessing
 
 
 
@@ -144,11 +144,11 @@ The Random Forest baseline achieved the highest test metrics in this simplified 
 
 
 
-\## Output Files
+## Output Files
 
 
 
-\### `outputs/figures/`
+### `outputs/figures/`
 
 
 
@@ -162,7 +162,7 @@ The Random Forest baseline achieved the highest test metrics in this simplified 
 
 
 
-\### `outputs/models/`
+### `outputs/models/`
 
 
 
@@ -176,7 +176,7 @@ The Random Forest baseline achieved the highest test metrics in this simplified 
 
 
 
-\### `outputs/results/`
+### `outputs/results/`
 
 
 
@@ -186,7 +186,7 @@ The Random Forest baseline achieved the highest test metrics in this simplified 
 
 
 
-\## How to Run
+## How to Run
 
 
 
